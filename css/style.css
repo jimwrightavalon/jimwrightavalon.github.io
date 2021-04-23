@@ -47,6 +47,10 @@ text-decoration: none;
   align-content: center;
   justify-content: center;
 }
+.container-fluid img {
+ align-items: center; 
+}
+
 
   
   .gand  {
