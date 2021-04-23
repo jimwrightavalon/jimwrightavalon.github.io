@@ -40,18 +40,12 @@ text-decoration: none;
     margin-top: 10px;   
   }
 
-.container-fluid 
-{
+.container-fluid .images {
   display: flex;
   flex-direction: row;
   align-content: center;
   justify-content: center;
 }
-.container-fluid img {
- align-items: center; 
-}
-
-
   
   .gand  {
     max-height: 600px;
