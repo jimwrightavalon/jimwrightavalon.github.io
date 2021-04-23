@@ -29,7 +29,7 @@ text-decoration: none;
 }
   /****** Jumbotron *****/
   
-  .jumbotron {
+  .jumbofluid .jumbotron {
     height: 400px;
     padding-top: 50px;
     text-align: center;
