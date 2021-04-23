@@ -26,7 +26,7 @@ text-decoration: none;
   size: 25px;
 }
   /****** Jumbotron *****/
-  .container-fluid .jumbotron {
+.jumbotron {
     background-image: url("images/EXT.jpg");
     height: 400px;
     background-size: cover;
