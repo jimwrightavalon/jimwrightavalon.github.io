@@ -26,12 +26,13 @@ text-decoration: none;
   size: 25px;
 }
   /****** Jumbotron *****/
-.jumbotron {
-    background-image: url("images/EXT.jpg");
-    height: 400px;
-    background-size: cover;
-  }
 
+
+  .jumbotron-image {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
   .jumbofluid .jumbotron {
     height: 400px;
